@@ -1,0 +1,13 @@
+@media screen {
+    
+}
+
+@page {
+    size: A1;
+}
+
+body {
+    width: 120px;
+    height: 120px;
+    border: 1px solid black;
+}
