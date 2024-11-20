@@ -1,13 +1,25 @@
 @media screen {
-    
+
 }
 
 @page {
-    size: A1;
+    size: 2245px 3179px;
+}
+
+@font-face {
+    font-family: 'neodgm';
+    src: url('Font/neodgm.ttf');
+}
+
+.border {
+    border: 2px solid black;
 }
 
 body {
-    width: 120px;
-    height: 120px;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 2245px;
+    height: 3179px;
     border: 1px solid black;
 }
