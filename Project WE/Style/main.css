@@ -3,7 +3,7 @@
 }
 
 @page {
-    size: 2245px 3179px;
+    size: 3508px 4967px;
 }
 
 @font-face {
@@ -19,7 +19,7 @@ body {
     margin: 0;
     top: 0;
     left: 0;
-    width: 2245px;
-    height: 3179px;
-    border: 1px solid black;
+    width: 3508px;
+    height: 4967px;
+    border: 2px solid black;
 }
